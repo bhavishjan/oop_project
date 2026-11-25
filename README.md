@@ -1,4 +1,4 @@
-# 2D Arcade Game - Metal Slug
+#  Metal Slug - 2D Arcade Game
 This repo is for my final project of Object Oriented Programming at FAST NUCES Islamabad.
 
 I worked with my project partner and tried to implement different features in this arcade game.
